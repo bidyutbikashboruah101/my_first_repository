@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    /*background-color: rgb(255, 255, 255); */           /*this is a comment*/
+    color: black;
+    
+}
+
+.ssh{
+    font-family: 'The Nautigal', cursive;
+    font-size: 40px;
+}
+
+.k{
+    color: green;
+}
+
+.y{
+    color: indigo;
+}
